@@ -482,12 +482,10 @@ header .navbar ul li a:hover {
   width: 300px;
   margin: 20px auto;
 }
-  
-}
 
 .review-item .clint {
-  width: 180px; /* تكبير العرض */
-  height: 180px; /* تكبير الارتفاع */
+  width: 180px;
+  height: 180px;
   margin: 15px auto 20px;
   border-radius: 50%;
   overflow: hidden;
