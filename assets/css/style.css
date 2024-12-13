@@ -474,6 +474,14 @@ header .navbar ul li a:hover {
 
 .review-item {
   text-align: center;
+  background-color: white; /* اللون الأبيض */
+  border: 1px solid #ccc; /* حدود رمادية خفيفة */
+  border-radius: 10px; /* حواف دائرية */
+  padding: 20px; /* مساحة داخلية */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* ظل خفيف */
+  width: 300px; /* عرض ثابت للمربع */
+  margin: 20px auto; /* وسطي المربع أفقيًا */
+}
   
 }
 
